@@ -1,0 +1,25 @@
+/* [project]/src/components/styles/theme-toggle.css [app-client] (css) */
+.theme-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: .375rem;
+  background-color: #0000;
+  border: none;
+  cursor: pointer;
+  color: var(--foreground);
+  transition: background-color .3s;
+}
+
+.theme-toggle:hover {
+  background-color: var(--accent);
+}
+
+.theme-toggle-placeholder {
+  width: 2.25rem;
+  height: 2.25rem;
+}
+
+/*# sourceMappingURL=src_components_styles_theme-toggle_b52d8e.css.map*/

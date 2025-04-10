@@ -1,0 +1,12 @@
+/* [project]/src/components/styles/portfolio.css [app-client] (css) */
+.portfolio-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex-grow: 1;
+}
+
+/*# sourceMappingURL=src_components_styles_portfolio_b52d8e.css.map*/
