@@ -33,7 +33,7 @@ export default function Projects() {
       image: "/placeholder.svg?height=400&width=600",
       technologies: ["HTML", "CSS", "JS", "MySQL", "PHP"],
       // demoLink: "https://project-demo.com",
-      githubLink: "https://github.com/username/project",
+      githubLink: "https://github.com/saiganeshreddyv/Event-Management",
       featured: false,
     },
     {
@@ -43,7 +43,7 @@ export default function Projects() {
       image: "/placeholder.svg?height=400&width=600",
       technologies: ["DART", "OpenWeather API", "Firebase"],
       // demoLink: "https://project-demo.com",
-      githubLink: "https://github.com/username/project",
+      githubLink: "https://github.com/saiganeshreddyv/Weather",
       featured: false,
     },
     {
@@ -52,16 +52,16 @@ export default function Projects() {
       image: "/placeholder.svg?height=400&width=600",
       technologies: ["Python", "TensorFlow", "DL"],
       // demoLink: "https://project-demo.com",
-      githubLink: "https://github.com/username/project",
+      githubLink: "https://github.com/saiganeshreddyv/Sign-Language-Recognition",
       featured: false,
     },
     {
-      title: "Secure Mobile Entry App",
+      title: "Secure Mobile Entry System",
       description: "Designed and developed a secure mobile authentication system using Flutter, integrating fingerprint and facial recognition with Firebase backend to ensure fast and reliable user verification.",
       image: "/placeholder.svg?height=400&width=600",
       technologies: ["React Native", "Firebase"],
       // demoLink: "https://project-demo.com",
-      githubLink: "https://github.com/username/project",
+      githubLink: "https://github.com/saiganeshreddyv/Secure-Mobile-Entry-System",
       featured: false,
     },
   ]
