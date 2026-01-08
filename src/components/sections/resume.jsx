@@ -13,11 +13,11 @@ export default function Resume() {
         </p>
 
         <div className="resume-buttons">
-          <a href="https://drive.google.com/file/d/1snRwEiRmO82MkCKA7n6nAnCIznS9Yob9/view?usp=sharing" target="_blank" download className="download-button">
+          <a href="https://drive.google.com/file/d/1w7VccVoR2bOZ4p_N7O16nNH88jATdoE8/view?usp=sharing" target="_blank" download className="download-button">
             <Download size={18} className="button-icon" />
             Download Resume
           </a>
-          <a href="https://drive.google.com/file/d/1snRwEiRmO82MkCKA7n6nAnCIznS9Yob9/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="view-button">
+          <a href="https://drive.google.com/file/d/1w7VccVoR2bOZ4p_N7O16nNH88jATdoE8/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="view-button">
             <Eye size={18} className="button-icon" />
             View Resume
           </a>

@@ -1,0 +1,103 @@
+/* [project]/src/components/styles/internship.css [app-client] (css) */
+.internship-section {
+  padding: 5rem 0;
+}
+
+.section-title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+}
+
+.internship-card {
+  background-color: var(--accent);
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+.internship-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.company-name {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.role {
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+  font-size: 1rem;
+  color: var(--muted-foreground);
+  margin-top: .25rem;
+}
+
+.duration {
+  font-size: .9rem;
+  color: var(--muted-foreground);
+  white-space: nowrap;
+}
+
+.internship-description {
+  font-size: 1.05rem;
+  margin: 1rem 0 1.25rem;
+}
+
+.internship-points {
+  padding-left: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.internship-points li {
+  font-size: .95rem;
+  margin-bottom: .5rem;
+}
+
+.internship-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.apk-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  padding: .6rem 1.2rem;
+  border-radius: 999px;
+  background-color: var(--primary);
+  color: var(--primary-foreground);
+  font-size: .9rem;
+  transition: opacity .3s;
+}
+
+.apk-btn:hover {
+  opacity: .9;
+}
+
+.private-code {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  padding: .6rem 1.2rem;
+  border-radius: 999px;
+  background-color: #0000;
+  border: 1px dashed var(--muted-foreground);
+  color: var(--muted-foreground);
+  font-size: .9rem;
+  cursor: not-allowed;
+}
+
+@media (width <= 768px) {
+  .internship-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+/*# sourceMappingURL=src_components_styles_internship_b52d8e.css.map*/

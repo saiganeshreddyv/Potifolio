@@ -12,9 +12,10 @@ export default function About() {
             <h1 className="about-title">
               Hi, I'm <span className="highlight">V. Sai Ganesh Reddy</span>
             </h1>
-            <h2 className="about-subtitle">Computer Science Student</h2>
+            <h2 className="about-subtitle">Computer Science Graduate</h2>
             <p className="about-description">
-            I’m a final-year Computer Science student with a passion for building real-world solutions through code. I enjoy working on projects involving web development, mobile apps, machine learning, and cloud security. As a quick learner and problem solver, I’m eager to grow as a developer and contribute to meaningful tech-driven innovations.
+              I am a Computer Science graduate who builds real-world software solutions for clients, with experience across web development, mobile application development, machine learning, and cloud-focused security systems. I work on designing, developing, and delivering scalable, secure, and user-centric applications based on practical requirements.
+I handle projects end-to-end, including requirement understanding, development, testing, and deployment. I am comfortable working independently or in collaborative environments, adapt quickly to new technologies, and focus on delivering reliable, production-ready solutions that create real value.
             </p>
 
             <div className="contact-info">
@@ -26,11 +27,11 @@ export default function About() {
               </div>
               <div className="contact-item">
                 <MapPin className="contact-icon" size={18} />
-                <span>Guntur, AP</span>
+                <span>Yerragondapalem, AP</span>
               </div>
               <div className="contact-item">
                 <User className="contact-icon" size={18} />
-                <span>Available for full-time positions</span>
+                <span>Open to Full-Time Opportunities and Freelance Engagements</span>
               </div>
             </div>
 

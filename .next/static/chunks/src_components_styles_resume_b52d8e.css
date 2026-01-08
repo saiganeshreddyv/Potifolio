@@ -35,7 +35,7 @@
 }
 
 .download-button:hover {
-  background-color: rgba(var(--primary), .9);
+  background-color: #add8e6;
 }
 
 .view-button {

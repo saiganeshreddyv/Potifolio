@@ -5,6 +5,7 @@ import Navbar from "./navbar"
 import About from "./sections/about"
 import Education from "./sections/education"
 import Skills from "./sections/skills"
+import Internship from "./sections/Internship"
 import Projects from "./sections/projects"
 import Achievements from "./sections/achievements"
 import Resume from "./sections/resume"
@@ -51,6 +52,7 @@ export default function Portfolio() {
           <About />
           <Education />
           <Skills />
+          <Internship />
           <Projects />
           <Achievements />
           <Resume />
